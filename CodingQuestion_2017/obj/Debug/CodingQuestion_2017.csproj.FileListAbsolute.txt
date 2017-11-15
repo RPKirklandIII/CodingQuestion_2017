@@ -1,0 +1,8 @@
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\bin\Debug\CodingQuestion_2017.exe.config
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\bin\Debug\CodingQuestion_2017.exe
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\bin\Debug\CodingQuestion_2017.pdb
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\obj\Debug\CodingQuestion_2017.Form1.resources
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\obj\Debug\CodingQuestion_2017.Properties.Resources.resources
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\obj\Debug\CodingQuestion_2017.csproj.GenerateResource.Cache
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\obj\Debug\CodingQuestion_2017.exe
+C:\Stuff\Job_Search\Cherwell\CodingQuestion_2017\CodingQuestion_2017\obj\Debug\CodingQuestion_2017.pdb
